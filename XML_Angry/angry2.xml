@@ -1,0 +1,753 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<!DOCTYPE boost_serialization>
+<boost_serialization signature="serialization::archive" version="16">
+<val class_id="0" tracking_level="0" version="0">
+	<count>124</count>
+	<item_version>0</item_version>
+	<item class_id="1" tracking_level="0" version="0">
+		<first class_id="2" tracking_level="0" version="0">
+			<m_str>AU01 Inner Brow Raiser</m_str>
+		</first>
+		<second>0.00000000000000000e+00</second>
+	</item>
+	<item>
+		<first>
+			<m_str>AU02 Outer Brow Raiser</m_str>
+		</first>
+		<second>0.00000000000000000e+00</second>
+	</item>
+	<item>
+		<first>
+			<m_str>AU04 Brow Lowerer</m_str>
+		</first>
+		<second>0.00000000000000000e+00</second>
+	</item>
+	<item>
+		<first>
+			<m_str>AU04 Brow Lowerer Left</m_str>
+		</first>
+		<second>0.00000000000000000e+00</second>
+	</item>
+	<item>
+		<first>
+			<m_str>AU04 Brow Lowerer Right</m_str>
+		</first>
+		<second>0.00000000000000000e+00</second>
+	</item>
+	<item>
+		<first>
+			<m_str>AU05 Upper Lid Raiser</m_str>
+		</first>
+		<second>0.00000000000000000e+00</second>
+	</item>
+	<item>
+		<first>
+			<m_str>AU06 Cheek Raise</m_str>
+		</first>
+		<second>0.00000000000000000e+00</second>
+	</item>
+	<item>
+		<first>
+			<m_str>AU07 Lid Tightener</m_str>
+		</first>
+		<second>0.00000000000000000e+00</second>
+	</item>
+	<item>
+		<first>
+			<m_str>AU08 Lips Toward Each Other</m_str>
+		</first>
+		<second>0.00000000000000000e+00</second>
+	</item>
+	<item>
+		<first>
+			<m_str>AU08_AU26 Lips Toward Each Other</m_str>
+		</first>
+		<second>0.00000000000000000e+00</second>
+	</item>
+	<item>
+		<first>
+			<m_str>AU09 Nose Wrinkler</m_str>
+		</first>
+		<second>0.00000000000000000e+00</second>
+	</item>
+	<item>
+		<first>
+			<m_str>AU10 Upper Lip Raiser</m_str>
+		</first>
+		<second>0.00000000000000000e+00</second>
+	</item>
+	<item>
+		<first>
+			<m_str>AU11 Nasolabial Deepener</m_str>
+		</first>
+		<second>0.00000000000000000e+00</second>
+	</item>
+	<item>
+		<first>
+			<m_str>AU12 Lip Corner Puller</m_str>
+		</first>
+		<second>0.00000000000000000e+00</second>
+	</item>
+	<item>
+		<first>
+			<m_str>AU13 Sharp Lip Puller</m_str>
+		</first>
+		<second>0.00000000000000000e+00</second>
+	</item>
+	<item>
+		<first>
+			<m_str>AU14 Dimpler</m_str>
+		</first>
+		<second>0.00000000000000000e+00</second>
+	</item>
+	<item>
+		<first>
+			<m_str>AU14 Dimpler Left</m_str>
+		</first>
+		<second>0.00000000000000000e+00</second>
+	</item>
+	<item>
+		<first>
+			<m_str>AU14 Dimpler Right</m_str>
+		</first>
+		<second>0.00000000000000000e+00</second>
+	</item>
+	<item>
+		<first>
+			<m_str>AU15 Lip Corner Depressor</m_str>
+		</first>
+		<second>0.00000000000000000e+00</second>
+	</item>
+	<item>
+		<first>
+			<m_str>AU16 Lower Lip Depressor</m_str>
+		</first>
+		<second>0.00000000000000000e+00</second>
+	</item>
+	<item>
+		<first>
+			<m_str>AU17 Chin Raiser</m_str>
+		</first>
+		<second>0.00000000000000000e+00</second>
+	</item>
+	<item>
+		<first>
+			<m_str>AU18 Lip Puckerer</m_str>
+		</first>
+		<second>0.00000000000000000e+00</second>
+	</item>
+	<item>
+		<first>
+			<m_str>AU19 Tongue Show</m_str>
+		</first>
+		<second>0.00000000000000000e+00</second>
+	</item>
+	<item>
+		<first>
+			<m_str>AU20 Lip Stretcher</m_str>
+		</first>
+		<second>0.00000000000000000e+00</second>
+	</item>
+	<item>
+		<first>
+			<m_str>AU21 Neck tightener</m_str>
+		</first>
+		<second>0.00000000000000000e+00</second>
+	</item>
+	<item>
+		<first>
+			<m_str>AU22 Lip Funneler</m_str>
+		</first>
+		<second>0.00000000000000000e+00</second>
+	</item>
+	<item>
+		<first>
+			<m_str>AU23 Lip Tightener</m_str>
+		</first>
+		<second>0.00000000000000000e+00</second>
+	</item>
+	<item>
+		<first>
+			<m_str>AU24 Lip Pressor</m_str>
+		</first>
+		<second>0.00000000000000000e+00</second>
+	</item>
+	<item>
+		<first>
+			<m_str>AU25 Lips Parted</m_str>
+		</first>
+		<second>0.00000000000000000e+00</second>
+	</item>
+	<item>
+		<first>
+			<m_str>AU26 Jaw Drop</m_str>
+		</first>
+		<second>0.00000000000000000e+00</second>
+	</item>
+	<item>
+		<first>
+			<m_str>AU27 Mouth Stretch</m_str>
+		</first>
+		<second>0.00000000000000000e+00</second>
+	</item>
+	<item>
+		<first>
+			<m_str>AU28 Lip Suck</m_str>
+		</first>
+		<second>0.00000000000000000e+00</second>
+	</item>
+	<item>
+		<first>
+			<m_str>AU29 Jaw Thrust</m_str>
+		</first>
+		<second>0.00000000000000000e+00</second>
+	</item>
+	<item>
+		<first>
+			<m_str>AU30 Jaw Sideways Left</m_str>
+		</first>
+		<second>0.00000000000000000e+00</second>
+	</item>
+	<item>
+		<first>
+			<m_str>AU30 Jaw Sideways Right</m_str>
+		</first>
+		<second>0.00000000000000000e+00</second>
+	</item>
+	<item>
+		<first>
+			<m_str>AU31 Jaw Clencher</m_str>
+		</first>
+		<second>0.00000000000000000e+00</second>
+	</item>
+	<item>
+		<first>
+			<m_str>AU32 Bite</m_str>
+		</first>
+		<second>0.00000000000000000e+00</second>
+	</item>
+	<item>
+		<first>
+			<m_str>AU33 Blow</m_str>
+		</first>
+		<second>0.00000000000000000e+00</second>
+	</item>
+	<item>
+		<first>
+			<m_str>AU34 Cheek Puff</m_str>
+		</first>
+		<second>0.00000000000000000e+00</second>
+	</item>
+	<item>
+		<first>
+			<m_str>AU35 Suck</m_str>
+		</first>
+		<second>0.00000000000000000e+00</second>
+	</item>
+	<item>
+		<first>
+			<m_str>AU36 Bulge Left</m_str>
+		</first>
+		<second>0.00000000000000000e+00</second>
+	</item>
+	<item>
+		<first>
+			<m_str>AU36 Bulge Right</m_str>
+		</first>
+		<second>0.00000000000000000e+00</second>
+	</item>
+	<item>
+		<first>
+			<m_str>AU37 Lips Wipe Mouth</m_str>
+		</first>
+		<second>0.00000000000000000e+00</second>
+	</item>
+	<item>
+		<first>
+			<m_str>AU37 Lips Wipe Tongue Front</m_str>
+		</first>
+		<second>0.00000000000000000e+00</second>
+	</item>
+	<item>
+		<first>
+			<m_str>AU37 Lips Wipe Tongue Left</m_str>
+		</first>
+		<second>0.00000000000000000e+00</second>
+	</item>
+	<item>
+		<first>
+			<m_str>AU37 Lips Wipe Tongue Right</m_str>
+		</first>
+		<second>0.00000000000000000e+00</second>
+	</item>
+	<item>
+		<first>
+			<m_str>AU38 Nostril Dilator</m_str>
+		</first>
+		<second>0.00000000000000000e+00</second>
+	</item>
+	<item>
+		<first>
+			<m_str>AU39 Nostril Compresor</m_str>
+		</first>
+		<second>0.00000000000000000e+00</second>
+	</item>
+	<item>
+		<first>
+			<m_str>AU41 Lid Droop</m_str>
+		</first>
+		<second>0.00000000000000000e+00</second>
+	</item>
+	<item>
+		<first>
+			<m_str>AU42 Slit</m_str>
+		</first>
+		<second>0.00000000000000000e+00</second>
+	</item>
+	<item>
+		<first>
+			<m_str>AU43 Eyes Closed</m_str>
+		</first>
+		<second>0.00000000000000000e+00</second>
+	</item>
+	<item>
+		<first>
+			<m_str>AU44 Squint</m_str>
+		</first>
+		<second>0.00000000000000000e+00</second>
+	</item>
+	<item>
+		<first>
+			<m_str>AU45 Blink Left</m_str>
+		</first>
+		<second>0.00000000000000000e+00</second>
+	</item>
+	<item>
+		<first>
+			<m_str>AU45 Blink Right</m_str>
+		</first>
+		<second>0.00000000000000000e+00</second>
+	</item>
+	<item>
+		<first>
+			<m_str>AU46 Wink Left</m_str>
+		</first>
+		<second>0.00000000000000000e+00</second>
+	</item>
+	<item>
+		<first>
+			<m_str>AU46 Wink Right</m_str>
+		</first>
+		<second>0.00000000000000000e+00</second>
+	</item>
+	<item>
+		<first>
+			<m_str>AU51 Head Turn Left</m_str>
+		</first>
+		<second>0.00000000000000000e+00</second>
+	</item>
+	<item>
+		<first>
+			<m_str>AU52 Head Turn Right</m_str>
+		</first>
+		<second>0.00000000000000000e+00</second>
+	</item>
+	<item>
+		<first>
+			<m_str>AU53 Head Up</m_str>
+		</first>
+		<second>0.00000000000000000e+00</second>
+	</item>
+	<item>
+		<first>
+			<m_str>AU54 Head Down</m_str>
+		</first>
+		<second>0.00000000000000000e+00</second>
+	</item>
+	<item>
+		<first>
+			<m_str>AU55 Head Tilt Left</m_str>
+		</first>
+		<second>0.00000000000000000e+00</second>
+	</item>
+	<item>
+		<first>
+			<m_str>AU56 Head Tilt Right</m_str>
+		</first>
+		<second>0.00000000000000000e+00</second>
+	</item>
+	<item>
+		<first>
+			<m_str>AU57 Head Forward</m_str>
+		</first>
+		<second>0.00000000000000000e+00</second>
+	</item>
+	<item>
+		<first>
+			<m_str>AU58 Head Back</m_str>
+		</first>
+		<second>0.00000000000000000e+00</second>
+	</item>
+	<item>
+		<first>
+			<m_str>AU61 Eyes Turn Left</m_str>
+		</first>
+		<second>0.00000000000000000e+00</second>
+	</item>
+	<item>
+		<first>
+			<m_str>AU62 Eyes Turn Right</m_str>
+		</first>
+		<second>0.00000000000000000e+00</second>
+	</item>
+	<item>
+		<first>
+			<m_str>AU63 Eyes Up</m_str>
+		</first>
+		<second>0.00000000000000000e+00</second>
+	</item>
+	<item>
+		<first>
+			<m_str>AU64 Eyes Down</m_str>
+		</first>
+		<second>0.00000000000000000e+00</second>
+	</item>
+	<item>
+		<first>
+			<m_str>AU65 Walleye Left</m_str>
+		</first>
+		<second>0.00000000000000000e+00</second>
+	</item>
+	<item>
+		<first>
+			<m_str>AU65 Walleye Right</m_str>
+		</first>
+		<second>0.00000000000000000e+00</second>
+	</item>
+	<item>
+		<first>
+			<m_str>AU66 Cross-eyes</m_str>
+		</first>
+		<second>0.00000000000000000e+00</second>
+	</item>
+	<item>
+		<first>
+			<m_str>Expression Anger</m_str>
+		</first>
+		<second>2.00000000000000002e-02</second>
+	</item>
+	<item>
+		<first>
+			<m_str>Expression Baring Teeth</m_str>
+		</first>
+		<second>0.00000000000000000e+00</second>
+	</item>
+	<item>
+		<first>
+			<m_str>Expression Chin Raised</m_str>
+		</first>
+		<second>0.00000000000000000e+00</second>
+	</item>
+	<item>
+		<first>
+			<m_str>Expression Dimple Left</m_str>
+		</first>
+		<second>0.00000000000000000e+00</second>
+	</item>
+	<item>
+		<first>
+			<m_str>Expression Dimple Right</m_str>
+		</first>
+		<second>0.00000000000000000e+00</second>
+	</item>
+	<item>
+		<first>
+			<m_str>Expression Disgust</m_str>
+		</first>
+		<second>0.00000000000000000e+00</second>
+	</item>
+	<item>
+		<first>
+			<m_str>Expression Fear</m_str>
+		</first>
+		<second>0.00000000000000000e+00</second>
+	</item>
+	<item>
+		<first>
+			<m_str>Expression Frown</m_str>
+		</first>
+		<second>0.00000000000000000e+00</second>
+	</item>
+	<item>
+		<first>
+			<m_str>Expression Hmmm</m_str>
+		</first>
+		<second>0.00000000000000000e+00</second>
+	</item>
+	<item>
+		<first>
+			<m_str>Expression Jaw Down</m_str>
+		</first>
+		<second>0.00000000000000000e+00</second>
+	</item>
+	<item>
+		<first>
+			<m_str>Expression Jaw Forward</m_str>
+		</first>
+		<second>0.00000000000000000e+00</second>
+	</item>
+	<item>
+		<first>
+			<m_str>Expression Kiss</m_str>
+		</first>
+		<second>0.00000000000000000e+00</second>
+	</item>
+	<item>
+		<first>
+			<m_str>Expression Mouth Left</m_str>
+		</first>
+		<second>0.00000000000000000e+00</second>
+	</item>
+	<item>
+		<first>
+			<m_str>Expression Mouth Right</m_str>
+		</first>
+		<second>0.00000000000000000e+00</second>
+	</item>
+	<item>
+		<first>
+			<m_str>Expression Puff Cheeks</m_str>
+		</first>
+		<second>0.00000000000000000e+00</second>
+	</item>
+	<item>
+		<first>
+			<m_str>Expression Sad</m_str>
+		</first>
+		<second>0.00000000000000000e+00</second>
+	</item>
+	<item>
+		<first>
+			<m_str>Expression Smile Left</m_str>
+		</first>
+		<second>0.00000000000000000e+00</second>
+	</item>
+	<item>
+		<first>
+			<m_str>Expression Smile Right</m_str>
+		</first>
+		<second>0.00000000000000000e+00</second>
+	</item>
+	<item>
+		<first>
+			<m_str>Expression SmileClosed</m_str>
+		</first>
+		<second>0.00000000000000000e+00</second>
+	</item>
+	<item>
+		<first>
+			<m_str>Expression SmileOpen</m_str>
+		</first>
+		<second>0.00000000000000000e+00</second>
+	</item>
+	<item>
+		<first>
+			<m_str>Expression Sneer</m_str>
+		</first>
+		<second>0.00000000000000000e+00</second>
+	</item>
+	<item>
+		<first>
+			<m_str>Expression Sneer Left</m_str>
+		</first>
+		<second>0.00000000000000000e+00</second>
+	</item>
+	<item>
+		<first>
+			<m_str>Expression Sneer Right</m_str>
+		</first>
+		<second>0.00000000000000000e+00</second>
+	</item>
+	<item>
+		<first>
+			<m_str>Expression Surprise</m_str>
+		</first>
+		<second>0.00000000000000000e+00</second>
+	</item>
+	<item>
+		<first>
+			<m_str>Modifier BrowIn Left</m_str>
+		</first>
+		<second>0.00000000000000000e+00</second>
+	</item>
+	<item>
+		<first>
+			<m_str>Modifier BrowIn Right</m_str>
+		</first>
+		<second>0.00000000000000000e+00</second>
+	</item>
+	<item>
+		<first>
+			<m_str>Modifier BrowUp Left</m_str>
+		</first>
+		<second>0.00000000000000000e+00</second>
+	</item>
+	<item>
+		<first>
+			<m_str>Modifier BrowUp Right</m_str>
+		</first>
+		<second>0.00000000000000000e+00</second>
+	</item>
+	<item>
+		<first>
+			<m_str>Modifier Ears Out</m_str>
+		</first>
+		<second>0.00000000000000000e+00</second>
+	</item>
+	<item>
+		<first>
+			<m_str>Modifier Epicanthic Fold</m_str>
+		</first>
+		<second>0.00000000000000000e+00</second>
+	</item>
+	<item>
+		<first>
+			<m_str>Modifier EyeSquint Left</m_str>
+		</first>
+		<second>0.00000000000000000e+00</second>
+	</item>
+	<item>
+		<first>
+			<m_str>Modifier EyeSquint Right</m_str>
+		</first>
+		<second>0.00000000000000000e+00</second>
+	</item>
+	<item>
+		<first>
+			<m_str>Modifier Eyebrows Tented</m_str>
+		</first>
+		<second>0.00000000000000000e+00</second>
+	</item>
+	<item>
+		<first>
+			<m_str>Modifier Eyes Wide</m_str>
+		</first>
+		<second>0.00000000000000000e+00</second>
+	</item>
+	<item>
+		<first>
+			<m_str>Modifier Smirk Left</m_str>
+		</first>
+		<second>0.00000000000000000e+00</second>
+	</item>
+	<item>
+		<first>
+			<m_str>Modifier Smirk Right</m_str>
+		</first>
+		<second>0.00000000000000000e+00</second>
+	</item>
+	<item>
+		<first>
+			<m_str>Phoneme B,M,P</m_str>
+		</first>
+		<second>0.00000000000000000e+00</second>
+	</item>
+	<item>
+		<first>
+			<m_str>Phoneme D,S,T</m_str>
+		</first>
+		<second>0.00000000000000000e+00</second>
+	</item>
+	<item>
+		<first>
+			<m_str>Phoneme F,V</m_str>
+		</first>
+		<second>0.00000000000000000e+00</second>
+	</item>
+	<item>
+		<first>
+			<m_str>Phoneme K</m_str>
+		</first>
+		<second>0.00000000000000000e+00</second>
+	</item>
+	<item>
+		<first>
+			<m_str>Phoneme N</m_str>
+		</first>
+		<second>0.00000000000000000e+00</second>
+	</item>
+	<item>
+		<first>
+			<m_str>Phoneme R</m_str>
+		</first>
+		<second>0.00000000000000000e+00</second>
+	</item>
+	<item>
+		<first>
+			<m_str>Phoneme W</m_str>
+		</first>
+		<second>0.00000000000000000e+00</second>
+	</item>
+	<item>
+		<first>
+			<m_str>Phoneme aah</m_str>
+		</first>
+		<second>0.00000000000000000e+00</second>
+	</item>
+	<item>
+		<first>
+			<m_str>Phoneme big aah</m_str>
+		</first>
+		<second>0.00000000000000000e+00</second>
+	</item>
+	<item>
+		<first>
+			<m_str>Phoneme ch,J,sh</m_str>
+		</first>
+		<second>0.00000000000000000e+00</second>
+	</item>
+	<item>
+		<first>
+			<m_str>Phoneme ee</m_str>
+		</first>
+		<second>0.00000000000000000e+00</second>
+	</item>
+	<item>
+		<first>
+			<m_str>Phoneme eh</m_str>
+		</first>
+		<second>0.00000000000000000e+00</second>
+	</item>
+	<item>
+		<first>
+			<m_str>Phoneme i</m_str>
+		</first>
+		<second>0.00000000000000000e+00</second>
+	</item>
+	<item>
+		<first>
+			<m_str>Phoneme oh</m_str>
+		</first>
+		<second>0.00000000000000000e+00</second>
+	</item>
+	<item>
+		<first>
+			<m_str>Phoneme ooh,Q</m_str>
+		</first>
+		<second>0.00000000000000000e+00</second>
+	</item>
+	<item>
+		<first>
+			<m_str>Phoneme th</m_str>
+		</first>
+		<second>0.00000000000000000e+00</second>
+	</item>
+	<item>
+		<first>
+			<m_str>Phoneme th_</m_str>
+		</first>
+		<second>0.00000000000000000e+00</second>
+	</item>
+</val>
+</boost_serialization>
+
