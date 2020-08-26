@@ -29,3 +29,6 @@ x distance
 
 Echo kivétele és akkor a megléfő ábrák újra generálása
 Skálázás 0 és 1,5 között menjen!!!
+
+Jövőhét szerdáig módszerek és ábrák! -> Abból absztrakt
+2 dimenzió, 2 érzelem és 2 intenzitás
